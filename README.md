@@ -1,5 +1,8 @@
 # FlickrAPI_Demo
-hhhh
-ggggg
 
-![Search](Gif/Search.gif)
+主要架構是用
+
+- Storyboard View Controller (UIViewController)
+- Storyboard Photo View Controller  (UICollectionViewController)
+
+
